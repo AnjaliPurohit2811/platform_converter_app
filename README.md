@@ -19,3 +19,9 @@ Creating a platform converter app that seamlessly translates iOS apps to Android
  <img src="https://github.com/AnjaliPurohit2811/platform_converter_app/assets/143180602/f7bde3c3-afa2-4025-9178-8796d2a6d2da" alt="Image 2" width="180" height="auto">
  <img src="https://github.com/AnjaliPurohit2811/platform_converter_app/assets/143180602/708f741f-02a4-4563-aa00-4a6f9ad40449" alt="Image 2" width="180" height="auto">
 
+ <video src = "https://github.com/AnjaliPurohit2811/platform_converter_app/assets/143180602/528e8a36-6366-4545-a241-f3fa55d06d2a" >
+
+
+
+
+
